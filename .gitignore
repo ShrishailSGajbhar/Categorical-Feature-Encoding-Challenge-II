@@ -140,7 +140,7 @@ cython_debug/
 # input data and models
 input/
 models/
-jupyter/
+Jupyter/
 
 # data files
 *.csv
